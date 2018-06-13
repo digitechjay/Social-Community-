@@ -1,0 +1,14 @@
+D:\Mehta Infosoft Product\Shopping Cart\ShoppingCartDAL\bin\Debug\ShoppingCartDAL.dll
+D:\Mehta Infosoft Product\Shopping Cart\ShoppingCartDAL\bin\Debug\ShoppingCartDAL.pdb
+D:\Mehta Infosoft Product\Shopping Cart\ShoppingCartDAL\bin\Debug\ShoppingCartProp.dll
+D:\Mehta Infosoft Product\Shopping Cart\ShoppingCartDAL\bin\Debug\ShoppingCartProp.pdb
+D:\Mehta Infosoft Product\Shopping Cart\ShoppingCartDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Mehta Infosoft Product\Shopping Cart\ShoppingCartDAL\obj\Debug\ShoppingCartDAL.dll
+D:\Mehta Infosoft Product\Shopping Cart\ShoppingCartDAL\obj\Debug\ShoppingCartDAL.pdb
+H:\Shopping Cart\ShoppingCartDAL\bin\Debug\ShoppingCartDAL.dll
+H:\Shopping Cart\ShoppingCartDAL\bin\Debug\ShoppingCartDAL.pdb
+H:\Shopping Cart\ShoppingCartDAL\bin\Debug\ShoppingCartProp.dll
+H:\Shopping Cart\ShoppingCartDAL\bin\Debug\ShoppingCartProp.pdb
+H:\Shopping Cart\ShoppingCartDAL\obj\Debug\ResolveAssemblyReference.cache
+H:\Shopping Cart\ShoppingCartDAL\obj\Debug\ShoppingCartDAL.dll
+H:\Shopping Cart\ShoppingCartDAL\obj\Debug\ShoppingCartDAL.pdb

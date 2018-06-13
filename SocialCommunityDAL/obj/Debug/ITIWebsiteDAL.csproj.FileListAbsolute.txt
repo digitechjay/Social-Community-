@@ -1,0 +1,21 @@
+D:\ITI Chandkheda\Website\ShoppingCartDAL\bin\Debug\ITIWebsiteDAL.dll
+D:\ITI Chandkheda\Website\ShoppingCartDAL\bin\Debug\ITIWebsiteDAL.pdb
+D:\ITI Chandkheda\Website\ShoppingCartDAL\bin\Debug\ITIWebsiteProp.dll
+D:\ITI Chandkheda\Website\ShoppingCartDAL\bin\Debug\ITIWebsiteProp.pdb
+D:\ITI Chandkheda\Website\ShoppingCartDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\ITI Chandkheda\Website\ShoppingCartDAL\obj\Debug\ITIWebsiteDAL.dll
+D:\ITI Chandkheda\Website\ShoppingCartDAL\obj\Debug\ITIWebsiteDAL.pdb
+D:\ITI Chandkheda\Website\ITIWebsiteDAL\bin\Debug\ITIWebsiteDAL.dll
+D:\ITI Chandkheda\Website\ITIWebsiteDAL\bin\Debug\ITIWebsiteDAL.pdb
+D:\ITI Chandkheda\Website\ITIWebsiteDAL\bin\Debug\ITIWebsiteProp.dll
+D:\ITI Chandkheda\Website\ITIWebsiteDAL\bin\Debug\ITIWebsiteProp.pdb
+D:\ITI Chandkheda\Website\ITIWebsiteDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\ITI Chandkheda\Website\ITIWebsiteDAL\obj\Debug\ITIWebsiteDAL.dll
+D:\ITI Chandkheda\Website\ITIWebsiteDAL\obj\Debug\ITIWebsiteDAL.pdb
+D:\Projects\SocialCommunity\ITIWebsiteDAL\bin\Debug\ITIWebsiteDAL.dll
+D:\Projects\SocialCommunity\ITIWebsiteDAL\bin\Debug\ITIWebsiteDAL.pdb
+D:\Projects\SocialCommunity\ITIWebsiteDAL\bin\Debug\ITIWebsiteProp.dll
+D:\Projects\SocialCommunity\ITIWebsiteDAL\bin\Debug\ITIWebsiteProp.pdb
+D:\Projects\SocialCommunity\ITIWebsiteDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\SocialCommunity\ITIWebsiteDAL\obj\Debug\ITIWebsiteDAL.dll
+D:\Projects\SocialCommunity\ITIWebsiteDAL\obj\Debug\ITIWebsiteDAL.pdb

@@ -1,0 +1,20 @@
+D:\Projects\SocialCommunity\SocialCommunityProp\bin\Debug\SocialCommunityProp.dll
+D:\Projects\SocialCommunity\SocialCommunityProp\bin\Debug\SocialCommunityProp.pdb
+D:\Projects\SocialCommunity\SocialCommunityProp\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\SocialCommunity\SocialCommunityProp\obj\Debug\SocialCommunityProp.dll
+D:\Projects\SocialCommunity\SocialCommunityProp\obj\Debug\SocialCommunityProp.pdb
+D:\SocialCommunity\SocialCommunityProp\bin\Debug\SocialCommunityProp.dll
+D:\SocialCommunity\SocialCommunityProp\bin\Debug\SocialCommunityProp.pdb
+D:\SocialCommunity\SocialCommunityProp\obj\Debug\ResolveAssemblyReference.cache
+D:\SocialCommunity\SocialCommunityProp\obj\Debug\SocialCommunityProp.dll
+D:\SocialCommunity\SocialCommunityProp\obj\Debug\SocialCommunityProp.pdb
+D:\SocialCommunity - Nagar Samaj\SocialCommunityProp\bin\Debug\SocialCommunityProp.dll
+D:\SocialCommunity - Nagar Samaj\SocialCommunityProp\bin\Debug\SocialCommunityProp.pdb
+D:\SocialCommunity - Nagar Samaj\SocialCommunityProp\obj\Debug\ResolveAssemblyReference.cache
+D:\SocialCommunity - Nagar Samaj\SocialCommunityProp\obj\Debug\SocialCommunityProp.dll
+D:\SocialCommunity - Nagar Samaj\SocialCommunityProp\obj\Debug\SocialCommunityProp.pdb
+F:\Projects\SocialCommunity - Nagar Samaj\SocialCommunityProp\bin\Debug\SocialCommunityProp.dll
+F:\Projects\SocialCommunity - Nagar Samaj\SocialCommunityProp\bin\Debug\SocialCommunityProp.pdb
+F:\Projects\SocialCommunity - Nagar Samaj\SocialCommunityProp\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\SocialCommunity - Nagar Samaj\SocialCommunityProp\obj\Debug\SocialCommunityProp.dll
+F:\Projects\SocialCommunity - Nagar Samaj\SocialCommunityProp\obj\Debug\SocialCommunityProp.pdb

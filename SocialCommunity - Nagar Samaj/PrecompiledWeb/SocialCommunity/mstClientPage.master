@@ -1,0 +1,227 @@
+<%@ master language="C#" autoeventwireup="true" inherits="mstClientPage, App_Web_nbloac5q" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    <title>Nagar Bandhara Community</title>
+    <link href="css/style.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="css/global.css" type="text/css" />
+
+    <script src="js/jquery.min.js" type="text/javascript"></script>
+
+    <script src="js/jquery.easing.1.3.js" type="text/javascript"></script>
+
+    <script src="js/slides.min.jquery.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+		$(function(){
+			$('#slides').slides({
+				preload: true,
+				preloadImage: 'images/loading.gif',
+				play: 5000,
+				pause: 2500,
+				hoverPause: true
+			});
+		});
+    </script>
+
+    <!------------------->
+    <link href="css/template.css" type="text/css" rel="stylesheet" />
+
+    <script src="js/ddaccordion.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+        ddaccordion.init({
+	        headerclass: "expandable", //Shared CSS class name of headers group that are expandable
+	        contentclass: "categoryitems", //Shared CSS class name of contents group
+	        revealtype: "click", //Reveal content when user clicks or onmouseover the header? Valid value: "click" or "mouseover
+	        mouseoverdelay: 200, //if revealtype="mouseover", set delay in milliseconds before header expands onMouseover
+	        mouseoverdelay: 200, //if revealtype="mouseover", set delay in milliseconds before header expands onMouseover
+	        collapseprev: true, //Collapse previous content (so only one open at any time)? true/false 
+	        defaultexpanded: [], //index of content(s) open by default [index1, index2, etc]. [] denotes no content
+	        onemustopen: false, //Specify whether at least one header should be open always (so never all headers closed)
+	        animatedefault: false, //Should contents open by default be animated into view?
+	        persiststate: true, //persist state of opened contents within browser session?
+	        toggleclass: ["", "openheader"], //Two CSS classes to be applied to the header when it's collapsed and expanded, respectively ["class1", "class2"]
+	        togglehtml: ["prefix", "", ""], //Additional HTML added to the header when it's collapsed and expanded, respectively  ["position", "html1", "html2"] (see docs)
+	        animatespeed: "fast", //speed of animation: integer in milliseconds (ie: 200), or keywords "fast", "normal", or "slow"
+	        oninit:function(headers, expandedindices){ //custom code to run when headers have initalized
+		        //do nothing
+	        },
+	        onopenclose:function(header, index, state, isuseractivated){ //custom code to run whenever a header is opened or closed
+		    //do nothing
+	        }
+        })
+    </script>
+
+    <!--------------------->
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="mainform" runat="server">
+    <div class="clear">
+    </div>
+    <div class="wapper">
+        <div id="header">
+            <div class="logo">
+                <a href="#">Home</a>
+            </div>
+            <div class="centrehd">
+                <h1>
+                    NAGAR BANDHARA COMMUNITY</h1>
+                PORTAL FOR NAGAR COMMUNITY (ORIGIN: INDIA)
+            </div>
+            <div class="callbg">
+                Call Us : +91-9601957620</div>
+            <div class="menutop">
+                <span style="float: left;">NEWS:</span>
+                <marquee behavior="" scrollamount="3" direction="left" onmouseover="this.stop();"
+                    onmouseout="this.start();" style="width: 660px; float: right;">
+                    <asp:Repeater ID="rptLatestNews" runat="server">
+                        <ItemTemplate>
+                            <a href="#"><%# ProcessNewsHead(DataBinder.Eval(Container.DataItem, "NewsHead"))%></a>
+                        </ItemTemplate>
+                    </asp:Repeater></marquee>
+            </div>
+        </div>
+        <div id="middle-part">
+            <div class="m_lpart">
+                <div class="left_menu">
+                    <div id="leftpart">
+                        <div>
+                            <img src="images/menutop.jpg" alt="NSIT" /></div>
+                        <div id="leftmenu">
+                            <div class="arrowlistmenu">
+                                <h3>
+                                    <a href="Default.aspx" class="title">Home</a></h3>
+                                <h3 headerindex="0h" class="menuheader expandable">
+                                    <span class="accordprefix"></span><a href="#" class="title">About us</a><span class="accordsuffix"></span></h3>
+                                <ul contentindex="0c" class="categoryitems">
+                                    <li><a href="History.aspx">History & Origin</a></li>
+                                    <li><a href="CommiteeMembers.aspx">Committee Members</a></li>
+                                </ul>
+                                <h3 headerindex="0h" class="menuheader expandable">
+                                    <span class="accordprefix"></span><a href="History.aspx" class="title">Religious Information</a><span
+                                        class="accordsuffix"></span></h3>
+                                <ul contentindex="0c" class="categoryitems">
+                                    <li><a href="Pustimarg.aspx">Pushtimarg Darshan</a></li>
+                                </ul>
+                                <h3>
+                                    <a href="MembersList.aspx" class="title">Members List</a></h3>
+                                <h3 id="matrimonialmemberlist" runat="server">
+                                    <a href="MatrimonialMembersList.aspx" class="title">Matrimonials</a></h3>
+                                <h3>
+                                    <a href="PhotoGallery.aspx" class="title">Photo Gallery</a></h3>
+                                <h3>
+                                    <a href="Contactus.aspx" class="title">Contact Us</a></h3>
+                            </div>
+                        </div>
+                        <div style="background-color: #fff; padding-bottom: 15px;">
+                            <img src="images/menubottom.jpg" alt="menubottom" /></div>
+                    </div>
+                </div>
+                <div id="LoginForm" runat="server" class="location">
+                    <h4>
+                        Matrimonial Login</h4>
+                    <p>
+                        Email ID<br />
+                        <asp:TextBox ID="txtEmailID" CssClass="TextBox" runat="server"></asp:TextBox>
+                        <br />
+                        Password<br />
+                        <asp:TextBox ID="txtPassword" CssClass="TextBox" runat="server" TextMode="Password"></asp:TextBox>
+                    </p>
+                    <p>
+                        <asp:Button ID="btnLogin" runat="server" Text="Login" OnClick="btnLogin_Click" />
+                    </p>
+                    <p>
+                        <a href="MatrimonialSignUp.aspx">New User? Sign up now</a>
+                    </p>
+                </div>
+                <div id="Welcome" runat="server" class="location">
+                    <h4>
+                        WELCOME
+                        <asp:LinkButton ID="lnkLogout" runat="server" OnClick="lnkLogout_Click">(Logout)</asp:LinkButton></h4>
+                    <p>
+                        <asp:Label ID="lblUserName" runat="server" Text=""></asp:Label>
+                    </p>
+                </div>
+                <div class="location">
+                    <h4>
+                        LOCATION</h4>
+                    <p>
+                        <strong>Nagar Bandhara Community</strong><br />
+                        F-18, Kalpnanagar, Chandkheda<br />
+                        Ahmedabad-382424<br />
+                    </p>
+                    <span>Contact Person:<br />
+                        Jay Nagar<br />
+                        Call: +91-9601957620</span>
+                </div>
+                <div class="location">
+                    <h4>
+                        IMPORTANT LINK</h4>
+                    <ul>
+                        <li><a href="http://www.way2sms.com/">Free SmS</a></li>
+                        <li><a href="http://www.irctc.com/">Railway Inquiry/Reservation</a></li>
+                        <li><a href="http://shivlehri.blogspot.in/2012/07/lord-hatkeshwar-vadnagar.html">Hatkeshwar(Vadnagar)</a></li>
+                        <li><a href="http://www.nathdwara.in/">Shri Nathdwara Temple</a></li>
+                        <li><a href="http://mahakalipavagadh.com/">Shri mahakali(Pavagadh)</a></li>
+                    </ul>
+                </div>
+                <div class="community">
+                    <h4>
+                        Our Community Group</h4>
+                    <ul>
+                        <li><a href="http://www.facebook.com/pages/Nagar-Bandhara-Community/147034178800769/"
+                            target="_blank">
+                            <img src="images/face_icn.png" alt="Facebook">
+                            <b>follow us on</b> <span>Facebook</span></a> </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="m_rpart">
+                <div class="banner">
+                    <div class="slidebanner">
+                        <div id="container">
+                            <div id="example">
+                                <div id="slides">
+                                    <div class="slides_container">
+                                        <a href="#">
+                                            <img src="images/banner1.jpg" alt="Slide 2" />
+                                        </a><a href="#">
+                                            <img src="images/banner2.jpg" alt="Slide 2" />
+                                        </a><a href="#">
+                                            <img src="images/banner3.jpg" alt="Slide 2" />
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <asp:ContentPlaceHolder ID="Contentplaceholder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+        </div>
+    </div>
+    <div class="clear">
+    </div>
+    <div class="footer">
+        <a href="#">Home</a> | <a href="History.aspx">About Us</a> | <a href="PhotoGallery.aspx">
+            Photo Gallery</a> | <a href="#">Contact Us</a>
+    </div>
+    <div class="linkf left Pl25">
+        <a href="http://hackerjaynagarit.blogspot.com/">All Rights Reserved By: NBC</a>
+        (INDIA)
+    </div>
+    <div class="linkf">
+        Designed & Developed by <a href="http://www.mehtainfosoft.com/" target="_blank">Jay
+            Anilbhai Nagar (MEHTA INFOSOFT PVT. LTD.)</a>
+    </div>
+    </form>
+</body>
+<asp:contentplaceholder id="BottomContent" runat="server">
+</asp:contentplaceholder>
+</html>

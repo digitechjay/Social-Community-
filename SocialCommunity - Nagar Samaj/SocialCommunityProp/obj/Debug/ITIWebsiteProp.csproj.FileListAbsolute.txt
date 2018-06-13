@@ -1,0 +1,15 @@
+D:\ITI Chandkheda\Website\ShoppingCartProp\bin\Debug\ITIWebsiteProp.dll
+D:\ITI Chandkheda\Website\ShoppingCartProp\bin\Debug\ITIWebsiteProp.pdb
+D:\ITI Chandkheda\Website\ShoppingCartProp\obj\Debug\ResolveAssemblyReference.cache
+D:\ITI Chandkheda\Website\ShoppingCartProp\obj\Debug\ITIWebsiteProp.dll
+D:\ITI Chandkheda\Website\ShoppingCartProp\obj\Debug\ITIWebsiteProp.pdb
+D:\ITI Chandkheda\Website\ITIWebsiteProp\bin\Debug\ITIWebsiteProp.dll
+D:\ITI Chandkheda\Website\ITIWebsiteProp\bin\Debug\ITIWebsiteProp.pdb
+D:\ITI Chandkheda\Website\ITIWebsiteProp\obj\Debug\ResolveAssemblyReference.cache
+D:\ITI Chandkheda\Website\ITIWebsiteProp\obj\Debug\ITIWebsiteProp.dll
+D:\ITI Chandkheda\Website\ITIWebsiteProp\obj\Debug\ITIWebsiteProp.pdb
+D:\Projects\SocialCommunity\ITIWebsiteProp\bin\Debug\ITIWebsiteProp.dll
+D:\Projects\SocialCommunity\ITIWebsiteProp\bin\Debug\ITIWebsiteProp.pdb
+D:\Projects\SocialCommunity\ITIWebsiteProp\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\SocialCommunity\ITIWebsiteProp\obj\Debug\ITIWebsiteProp.dll
+D:\Projects\SocialCommunity\ITIWebsiteProp\obj\Debug\ITIWebsiteProp.pdb

@@ -1,0 +1,289 @@
+/*------------Design CSS---------------------*/
+body
+{
+	padding: 0;
+	margin: 0;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+}
+#wrapper
+{
+	width: 100%;
+	padding: 0;
+	margin: 0 auto;
+}
+#header
+{
+	width: 100%;
+	float: left;
+	background: url(../images/bg-top.gif) top left repeat-x;
+}
+.header-menu
+{
+	/*	width:100%;*/
+	float: left;
+	padding: 10px 0 9px 20px;
+}
+.header-menu ul
+{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+
+.header-menu li
+{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	color: #333;
+	text-decoration: none;
+	display: inline;
+}
+.header-menu li a
+{
+	color: #333;
+	text-decoration: none;
+	padding: 0 5px 0 5px;
+}
+#content
+{
+	width: 100%;
+	float: left;
+}
+.content-left
+{
+	/*width:128px;*/
+	width: 15%;
+	float: left;
+	border-right: #d6e5f5 solid 1px;
+	padding: 10px 10px 0 10px;
+	overflow: auto;
+	min-height: 535px;
+	max-height: 535px;
+}
+.content-menu ul
+{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+.content-menu li
+{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	color: #333;
+	text-decoration: none;
+	line-height: 25px;
+}
+.content-menu li a
+{
+	color: #333;
+	text-decoration: none;
+}
+.header-menu li a:hover
+{
+	color: #000;
+	font-weight: bold;
+}
+.content-menu li a:hover
+{
+	color: #000;
+	font-weight: bold;
+}
+.content-right
+{
+	width: 82%;
+	float: left;
+	overflow: auto;
+	min-height: 535px;
+	max-height: 535px;
+}
+#footer
+{
+	width: 100%;
+	float: left;
+	background: url(../images/bg-bottom.gif) top left repeat-x;
+	height: 34px;
+	text-align: right;
+	padding: 20px 0 0 0;
+}
+/*---------------------------------*/
+.ContentMain
+{
+	width: 100%; /*padding-top: 20px;*/
+}
+.LabelBox
+{
+	vertical-align: top;
+	padding-left: 10px;
+	width: 130px;
+}
+.TextArea
+{
+	width: 30%;
+}
+.TextBox
+{
+	width: 300px;
+	border: Solid 1px Teal;
+}
+.ComboBox
+{
+	width: 302px;
+	border: Solid 1px Teal;
+}
+.HTMLEditor
+{
+	height: 300px;
+	width: 500px;
+	border: Solid 1px Teal;
+	margin: 0 auto;
+}
+.ImageButton
+{
+	padding-right: 5px;
+	width: 18px;
+	height: 18px;
+}
+.ImageButtonHide
+{
+	padding-right: 5px;
+	width: 18px;
+	height: 18px;
+	display: none;
+}
+.ErrorDesc
+{
+	width: 100%;
+	height: 20px;
+	background-color: LightYellow;
+	font-family: Verdana;
+	font-size: 11px;
+	vertical-align: middle;
+	border-bottom: Solid 1px Gray;
+}
+.ContentHead
+{
+	/*background-color: #5D7B9D;*/
+	background: url(../images/bg-bottom.gif) top left repeat-x;
+	height: 34px;
+	color: Gray;
+	font-weight: bolder;
+	height: 30px;
+	padding-left: 10px;
+	width: 100%;
+}
+
+.CommandButton
+{
+	border-top: solid 1px gray;
+	text-align: right;
+}
+
+/*--------------- Modal Popup CSS ------------------*/
+
+.ModalPopupBG
+{
+	background-color: White;
+	filter: alpha(opacity=50);
+	opacity: 0.7;
+}
+
+.ModalPopupDialog
+{
+	min-width: 150px;
+	min-height: 100px;
+	background: white;
+	border: Solid 2px #5D7B9D;
+}
+
+.PopUPHeader
+{
+	background-color: #5D7B9D;
+	color: White;
+	font-weight: bolder;
+	height: 30px;
+	padding-left: 10px;
+	width: 100%;
+}
+.ThumbnailImage
+{
+	width: 160px !important;
+	height: 120px !important;
+}
+.HideControl
+{
+	display: none;
+}
+
+/*----------- Login Form Stylesheet ----------------------*/
+#wrapperlogin
+{
+	width: 99.9%;
+	margin: auto;
+	padding: 0;
+}
+#headerlogin
+{
+	width: 100%;
+	float: left;
+	background-color: #323941;
+}
+.logo-boxlogin
+{
+	width: 230px;
+	float: left;
+	padding: 15px 0 10px 10px;
+}
+#contentlogin
+{
+	width: 100%;
+	float: left;
+	height: 100%;
+	min-height: 550px;
+	background-color: #3b4046;
+}
+.content-leftlogin
+{
+	width: 50%;
+	float: left;
+	padding: 160px 0 0 0px;
+	text-align: center;
+}
+.content-midiumlogin
+{
+	width: 2%;
+	float: left;
+	padding: 78px 0 0 0px;
+	text-align: center;
+}
+.content-rightlogin
+{
+	width: 40%;
+	float: right;
+	background: url(../images/images/bg-box.gif) top left no-repeat;
+	margin: 160px 0 0 0;
+}
+.content-right1login
+{
+	width: 282px;
+	float: left;
+	padding: 41px 0 0 0px;
+	height: 177px;
+}
+.content-textlogin
+{
+	width: 65px;
+	float: left;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 11px;
+	color: #FFF;
+	padding: 0px 0 15px 21px;
+}
+.content-formlogin
+{
+	width: 150px;
+	float: left;
+	padding: 0 0 10px 5px;
+}
+/*----------- Loging Form Stylesheet ----------------------*/

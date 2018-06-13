@@ -1,0 +1,45 @@
+
+.menu_body { float:left; width:240px;}
+.menu_body ul{ padding:0px; margin:0px;}
+.menu_body li{ padding:0px; margin:0px; list-style:none; background:url(../images/bullate.png) no-repeat left top!important;}
+
+
+
+
+/*menu css 2*/
+
+#containtarea2 { margin:15px auto 0 auto; width:990px; }
+
+.menu_list2 {
+	width: 150px; float:left; 
+}
+.menu_list12 {
+	width: 150px; float:left; margin-left:20px;
+}
+.menu_head2 {
+	padding: 5px 10px;
+	cursor: pointer;
+	position: relative;
+	margin:1px;
+       font-weight:bold;
+       background: #bdd2ff url(../images/left2.png) center right no-repeat;
+}
+.menu_body2 {
+	display:none;
+}
+.menu_body2 a {
+  display:block;
+  color:#0051ff;
+  background-color:#aabde6;
+  padding-left:10px;
+  font-weight:bold;
+  text-decoration:none;
+}
+.menu_body2 a:hover {
+  color: #96d4ff;
+  text-decoration:underline;
+}
+
+/*menu css 3*/
+
+

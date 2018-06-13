@@ -1,0 +1,15 @@
+D:\Shopping Cart\ShoppingCartProp\bin\Debug\ShoppingCartProp.dll
+D:\Shopping Cart\ShoppingCartProp\bin\Debug\ShoppingCartProp.pdb
+D:\Shopping Cart\ShoppingCartProp\obj\Debug\ResolveAssemblyReference.cache
+D:\Shopping Cart\ShoppingCartProp\obj\Debug\ShoppingCartProp.dll
+D:\Shopping Cart\ShoppingCartProp\obj\Debug\ShoppingCartProp.pdb
+D:\CCTV Shopping Cart\ShoppingCartProp\bin\Debug\ShoppingCartProp.dll
+D:\CCTV Shopping Cart\ShoppingCartProp\bin\Debug\ShoppingCartProp.pdb
+D:\CCTV Shopping Cart\ShoppingCartProp\obj\Debug\ResolveAssemblyReference.cache
+D:\CCTV Shopping Cart\ShoppingCartProp\obj\Debug\ShoppingCartProp.dll
+D:\CCTV Shopping Cart\ShoppingCartProp\obj\Debug\ShoppingCartProp.pdb
+D:\ITI Chandkheda\Website\ShoppingCartProp\bin\Debug\ITIWebsiteProp.dll
+D:\ITI Chandkheda\Website\ShoppingCartProp\bin\Debug\ITIWebsiteProp.pdb
+D:\ITI Chandkheda\Website\ShoppingCartProp\obj\Debug\ResolveAssemblyReference.cache
+D:\ITI Chandkheda\Website\ShoppingCartProp\obj\Debug\ITIWebsiteProp.dll
+D:\ITI Chandkheda\Website\ShoppingCartProp\obj\Debug\ITIWebsiteProp.pdb

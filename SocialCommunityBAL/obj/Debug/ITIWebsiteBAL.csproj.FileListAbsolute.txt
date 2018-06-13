@@ -1,0 +1,39 @@
+D:\ITI Chandkheda\Website\ShoppingCartBAL\bin\Debug\ITIWebsiteBAL.dll
+D:\ITI Chandkheda\Website\ShoppingCartBAL\bin\Debug\ITIWebsiteBAL.pdb
+D:\ITI Chandkheda\Website\ShoppingCartBAL\bin\Debug\ITIWebsiteDAL.dll
+D:\ITI Chandkheda\Website\ShoppingCartBAL\bin\Debug\ITIWebsiteProp.dll
+D:\ITI Chandkheda\Website\ShoppingCartBAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\ITI Chandkheda\Website\ShoppingCartBAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\ITI Chandkheda\Website\ShoppingCartBAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\ITI Chandkheda\Website\ShoppingCartBAL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\ITI Chandkheda\Website\ShoppingCartBAL\bin\Debug\ITIWebsiteDAL.pdb
+D:\ITI Chandkheda\Website\ShoppingCartBAL\bin\Debug\ITIWebsiteProp.pdb
+D:\ITI Chandkheda\Website\ShoppingCartBAL\obj\Debug\ResolveAssemblyReference.cache
+D:\ITI Chandkheda\Website\ShoppingCartBAL\obj\Debug\ITIWebsiteBAL.dll
+D:\ITI Chandkheda\Website\ShoppingCartBAL\obj\Debug\ITIWebsiteBAL.pdb
+D:\ITI Chandkheda\Website\ITIWebsiteBAL\bin\Debug\ITIWebsiteBAL.dll
+D:\ITI Chandkheda\Website\ITIWebsiteBAL\bin\Debug\ITIWebsiteBAL.pdb
+D:\ITI Chandkheda\Website\ITIWebsiteBAL\bin\Debug\ITIWebsiteDAL.dll
+D:\ITI Chandkheda\Website\ITIWebsiteBAL\bin\Debug\ITIWebsiteProp.dll
+D:\ITI Chandkheda\Website\ITIWebsiteBAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\ITI Chandkheda\Website\ITIWebsiteBAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\ITI Chandkheda\Website\ITIWebsiteBAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\ITI Chandkheda\Website\ITIWebsiteBAL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\ITI Chandkheda\Website\ITIWebsiteBAL\bin\Debug\ITIWebsiteDAL.pdb
+D:\ITI Chandkheda\Website\ITIWebsiteBAL\bin\Debug\ITIWebsiteProp.pdb
+D:\ITI Chandkheda\Website\ITIWebsiteBAL\obj\Debug\ResolveAssemblyReference.cache
+D:\ITI Chandkheda\Website\ITIWebsiteBAL\obj\Debug\ITIWebsiteBAL.dll
+D:\ITI Chandkheda\Website\ITIWebsiteBAL\obj\Debug\ITIWebsiteBAL.pdb
+D:\Projects\SocialCommunity\ITIWebsiteBAL\bin\Debug\ITIWebsiteBAL.dll
+D:\Projects\SocialCommunity\ITIWebsiteBAL\bin\Debug\ITIWebsiteBAL.pdb
+D:\Projects\SocialCommunity\ITIWebsiteBAL\bin\Debug\ITIWebsiteDAL.dll
+D:\Projects\SocialCommunity\ITIWebsiteBAL\bin\Debug\ITIWebsiteProp.dll
+D:\Projects\SocialCommunity\ITIWebsiteBAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Projects\SocialCommunity\ITIWebsiteBAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Projects\SocialCommunity\ITIWebsiteBAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Projects\SocialCommunity\ITIWebsiteBAL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Projects\SocialCommunity\ITIWebsiteBAL\bin\Debug\ITIWebsiteDAL.pdb
+D:\Projects\SocialCommunity\ITIWebsiteBAL\bin\Debug\ITIWebsiteProp.pdb
+D:\Projects\SocialCommunity\ITIWebsiteBAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\SocialCommunity\ITIWebsiteBAL\obj\Debug\ITIWebsiteBAL.dll
+D:\Projects\SocialCommunity\ITIWebsiteBAL\obj\Debug\ITIWebsiteBAL.pdb

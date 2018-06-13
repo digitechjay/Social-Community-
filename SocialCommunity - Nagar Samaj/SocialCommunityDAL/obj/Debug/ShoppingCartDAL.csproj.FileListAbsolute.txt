@@ -1,0 +1,21 @@
+D:\Shopping Cart\ShoppingCartDAL\bin\Debug\ShoppingCartDAL.dll
+D:\Shopping Cart\ShoppingCartDAL\bin\Debug\ShoppingCartDAL.pdb
+D:\Shopping Cart\ShoppingCartDAL\bin\Debug\ShoppingCartProp.dll
+D:\Shopping Cart\ShoppingCartDAL\bin\Debug\ShoppingCartProp.pdb
+D:\Shopping Cart\ShoppingCartDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Shopping Cart\ShoppingCartDAL\obj\Debug\ShoppingCartDAL.dll
+D:\Shopping Cart\ShoppingCartDAL\obj\Debug\ShoppingCartDAL.pdb
+D:\CCTV Shopping Cart\ShoppingCartDAL\bin\Debug\ShoppingCartDAL.dll
+D:\CCTV Shopping Cart\ShoppingCartDAL\bin\Debug\ShoppingCartDAL.pdb
+D:\CCTV Shopping Cart\ShoppingCartDAL\bin\Debug\ShoppingCartProp.dll
+D:\CCTV Shopping Cart\ShoppingCartDAL\bin\Debug\ShoppingCartProp.pdb
+D:\CCTV Shopping Cart\ShoppingCartDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\CCTV Shopping Cart\ShoppingCartDAL\obj\Debug\ShoppingCartDAL.dll
+D:\CCTV Shopping Cart\ShoppingCartDAL\obj\Debug\ShoppingCartDAL.pdb
+D:\ITI Chandkheda\Website\ShoppingCartDAL\bin\Debug\ITIWebsiteDAL.dll
+D:\ITI Chandkheda\Website\ShoppingCartDAL\bin\Debug\ITIWebsiteDAL.pdb
+D:\ITI Chandkheda\Website\ShoppingCartDAL\bin\Debug\ITIWebsiteProp.dll
+D:\ITI Chandkheda\Website\ShoppingCartDAL\bin\Debug\ITIWebsiteProp.pdb
+D:\ITI Chandkheda\Website\ShoppingCartDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\ITI Chandkheda\Website\ShoppingCartDAL\obj\Debug\ITIWebsiteDAL.dll
+D:\ITI Chandkheda\Website\ShoppingCartDAL\obj\Debug\ITIWebsiteDAL.pdb

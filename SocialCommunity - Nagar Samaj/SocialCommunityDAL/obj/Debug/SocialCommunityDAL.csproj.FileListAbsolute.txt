@@ -1,0 +1,28 @@
+D:\Projects\SocialCommunity\SocialCommunityDAL\bin\Debug\SocialCommunityDAL.dll
+D:\Projects\SocialCommunity\SocialCommunityDAL\bin\Debug\SocialCommunityDAL.pdb
+D:\Projects\SocialCommunity\SocialCommunityDAL\bin\Debug\SocialCommunityProp.dll
+D:\Projects\SocialCommunity\SocialCommunityDAL\bin\Debug\SocialCommunityProp.pdb
+D:\Projects\SocialCommunity\SocialCommunityDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\SocialCommunity\SocialCommunityDAL\obj\Debug\SocialCommunityDAL.dll
+D:\Projects\SocialCommunity\SocialCommunityDAL\obj\Debug\SocialCommunityDAL.pdb
+D:\SocialCommunity\SocialCommunityDAL\bin\Debug\SocialCommunityDAL.dll
+D:\SocialCommunity\SocialCommunityDAL\bin\Debug\SocialCommunityDAL.pdb
+D:\SocialCommunity\SocialCommunityDAL\bin\Debug\SocialCommunityProp.dll
+D:\SocialCommunity\SocialCommunityDAL\bin\Debug\SocialCommunityProp.pdb
+D:\SocialCommunity\SocialCommunityDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\SocialCommunity\SocialCommunityDAL\obj\Debug\SocialCommunityDAL.dll
+D:\SocialCommunity\SocialCommunityDAL\obj\Debug\SocialCommunityDAL.pdb
+D:\SocialCommunity - Nagar Samaj\SocialCommunityDAL\bin\Debug\SocialCommunityDAL.dll
+D:\SocialCommunity - Nagar Samaj\SocialCommunityDAL\bin\Debug\SocialCommunityDAL.pdb
+D:\SocialCommunity - Nagar Samaj\SocialCommunityDAL\bin\Debug\SocialCommunityProp.dll
+D:\SocialCommunity - Nagar Samaj\SocialCommunityDAL\bin\Debug\SocialCommunityProp.pdb
+D:\SocialCommunity - Nagar Samaj\SocialCommunityDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\SocialCommunity - Nagar Samaj\SocialCommunityDAL\obj\Debug\SocialCommunityDAL.dll
+D:\SocialCommunity - Nagar Samaj\SocialCommunityDAL\obj\Debug\SocialCommunityDAL.pdb
+F:\Projects\SocialCommunity - Nagar Samaj\SocialCommunityDAL\bin\Debug\SocialCommunityDAL.dll
+F:\Projects\SocialCommunity - Nagar Samaj\SocialCommunityDAL\bin\Debug\SocialCommunityDAL.pdb
+F:\Projects\SocialCommunity - Nagar Samaj\SocialCommunityDAL\bin\Debug\SocialCommunityProp.dll
+F:\Projects\SocialCommunity - Nagar Samaj\SocialCommunityDAL\bin\Debug\SocialCommunityProp.pdb
+F:\Projects\SocialCommunity - Nagar Samaj\SocialCommunityDAL\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\SocialCommunity - Nagar Samaj\SocialCommunityDAL\obj\Debug\SocialCommunityDAL.dll
+F:\Projects\SocialCommunity - Nagar Samaj\SocialCommunityDAL\obj\Debug\SocialCommunityDAL.pdb

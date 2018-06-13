@@ -1,0 +1,39 @@
+D:\Shopping Cart\ShoppingCartBAL\bin\Debug\ShoppingCartBAL.dll
+D:\Shopping Cart\ShoppingCartBAL\bin\Debug\ShoppingCartBAL.pdb
+D:\Shopping Cart\ShoppingCartBAL\bin\Debug\ShoppingCartDAL.dll
+D:\Shopping Cart\ShoppingCartBAL\bin\Debug\ShoppingCartProp.dll
+D:\Shopping Cart\ShoppingCartBAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Shopping Cart\ShoppingCartBAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Shopping Cart\ShoppingCartBAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Shopping Cart\ShoppingCartBAL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Shopping Cart\ShoppingCartBAL\bin\Debug\ShoppingCartProp.pdb
+D:\Shopping Cart\ShoppingCartBAL\bin\Debug\ShoppingCartDAL.pdb
+D:\Shopping Cart\ShoppingCartBAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Shopping Cart\ShoppingCartBAL\obj\Debug\ShoppingCartBAL.dll
+D:\Shopping Cart\ShoppingCartBAL\obj\Debug\ShoppingCartBAL.pdb
+D:\CCTV Shopping Cart\ShoppingCartBAL\bin\Debug\ShoppingCartBAL.dll
+D:\CCTV Shopping Cart\ShoppingCartBAL\bin\Debug\ShoppingCartBAL.pdb
+D:\CCTV Shopping Cart\ShoppingCartBAL\bin\Debug\ShoppingCartDAL.dll
+D:\CCTV Shopping Cart\ShoppingCartBAL\bin\Debug\ShoppingCartProp.dll
+D:\CCTV Shopping Cart\ShoppingCartBAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\CCTV Shopping Cart\ShoppingCartBAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\CCTV Shopping Cart\ShoppingCartBAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\CCTV Shopping Cart\ShoppingCartBAL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\CCTV Shopping Cart\ShoppingCartBAL\bin\Debug\ShoppingCartProp.pdb
+D:\CCTV Shopping Cart\ShoppingCartBAL\bin\Debug\ShoppingCartDAL.pdb
+D:\CCTV Shopping Cart\ShoppingCartBAL\obj\Debug\ResolveAssemblyReference.cache
+D:\CCTV Shopping Cart\ShoppingCartBAL\obj\Debug\ShoppingCartBAL.dll
+D:\CCTV Shopping Cart\ShoppingCartBAL\obj\Debug\ShoppingCartBAL.pdb
+D:\ITI Chandkheda\Website\ShoppingCartBAL\bin\Debug\ITIWebsiteBAL.dll
+D:\ITI Chandkheda\Website\ShoppingCartBAL\bin\Debug\ITIWebsiteBAL.pdb
+D:\ITI Chandkheda\Website\ShoppingCartBAL\bin\Debug\ITIWebsiteDAL.dll
+D:\ITI Chandkheda\Website\ShoppingCartBAL\bin\Debug\ITIWebsiteProp.dll
+D:\ITI Chandkheda\Website\ShoppingCartBAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\ITI Chandkheda\Website\ShoppingCartBAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\ITI Chandkheda\Website\ShoppingCartBAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\ITI Chandkheda\Website\ShoppingCartBAL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\ITI Chandkheda\Website\ShoppingCartBAL\bin\Debug\ITIWebsiteDAL.pdb
+D:\ITI Chandkheda\Website\ShoppingCartBAL\bin\Debug\ITIWebsiteProp.pdb
+D:\ITI Chandkheda\Website\ShoppingCartBAL\obj\Debug\ResolveAssemblyReference.cache
+D:\ITI Chandkheda\Website\ShoppingCartBAL\obj\Debug\ITIWebsiteBAL.dll
+D:\ITI Chandkheda\Website\ShoppingCartBAL\obj\Debug\ITIWebsiteBAL.pdb

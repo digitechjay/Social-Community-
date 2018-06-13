@@ -1,0 +1,26 @@
+D:\Mehta Infosoft Product\Shopping Cart\ShoppingCartBAL\bin\Debug\ShoppingCartBAL.dll
+D:\Mehta Infosoft Product\Shopping Cart\ShoppingCartBAL\bin\Debug\ShoppingCartBAL.pdb
+D:\Mehta Infosoft Product\Shopping Cart\ShoppingCartBAL\bin\Debug\ShoppingCartDAL.dll
+D:\Mehta Infosoft Product\Shopping Cart\ShoppingCartBAL\bin\Debug\ShoppingCartProp.dll
+D:\Mehta Infosoft Product\Shopping Cart\ShoppingCartBAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Mehta Infosoft Product\Shopping Cart\ShoppingCartBAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Mehta Infosoft Product\Shopping Cart\ShoppingCartBAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Mehta Infosoft Product\Shopping Cart\ShoppingCartBAL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Mehta Infosoft Product\Shopping Cart\ShoppingCartBAL\bin\Debug\ShoppingCartProp.pdb
+D:\Mehta Infosoft Product\Shopping Cart\ShoppingCartBAL\bin\Debug\ShoppingCartDAL.pdb
+D:\Mehta Infosoft Product\Shopping Cart\ShoppingCartBAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Mehta Infosoft Product\Shopping Cart\ShoppingCartBAL\obj\Debug\ShoppingCartBAL.dll
+D:\Mehta Infosoft Product\Shopping Cart\ShoppingCartBAL\obj\Debug\ShoppingCartBAL.pdb
+H:\Shopping Cart\ShoppingCartBAL\bin\Debug\ShoppingCartBAL.dll
+H:\Shopping Cart\ShoppingCartBAL\bin\Debug\ShoppingCartBAL.pdb
+H:\Shopping Cart\ShoppingCartBAL\bin\Debug\ShoppingCartDAL.dll
+H:\Shopping Cart\ShoppingCartBAL\bin\Debug\ShoppingCartProp.dll
+H:\Shopping Cart\ShoppingCartBAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+H:\Shopping Cart\ShoppingCartBAL\bin\Debug\Microsoft.Practices.Unity.dll
+H:\Shopping Cart\ShoppingCartBAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+H:\Shopping Cart\ShoppingCartBAL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+H:\Shopping Cart\ShoppingCartBAL\bin\Debug\ShoppingCartProp.pdb
+H:\Shopping Cart\ShoppingCartBAL\bin\Debug\ShoppingCartDAL.pdb
+H:\Shopping Cart\ShoppingCartBAL\obj\Debug\ResolveAssemblyReference.cache
+H:\Shopping Cart\ShoppingCartBAL\obj\Debug\ShoppingCartBAL.dll
+H:\Shopping Cart\ShoppingCartBAL\obj\Debug\ShoppingCartBAL.pdb

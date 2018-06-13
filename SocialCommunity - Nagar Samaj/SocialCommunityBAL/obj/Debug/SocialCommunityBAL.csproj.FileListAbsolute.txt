@@ -1,0 +1,52 @@
+D:\Projects\SocialCommunity\SocialCommunityBAL\bin\Debug\SocialCommunityBAL.dll
+D:\Projects\SocialCommunity\SocialCommunityBAL\bin\Debug\SocialCommunityBAL.pdb
+D:\Projects\SocialCommunity\SocialCommunityBAL\bin\Debug\SocialCommunityDAL.dll
+D:\Projects\SocialCommunity\SocialCommunityBAL\bin\Debug\SocialCommunityProp.dll
+D:\Projects\SocialCommunity\SocialCommunityBAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Projects\SocialCommunity\SocialCommunityBAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Projects\SocialCommunity\SocialCommunityBAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Projects\SocialCommunity\SocialCommunityBAL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Projects\SocialCommunity\SocialCommunityBAL\bin\Debug\SocialCommunityDAL.pdb
+D:\Projects\SocialCommunity\SocialCommunityBAL\bin\Debug\SocialCommunityProp.pdb
+D:\Projects\SocialCommunity\SocialCommunityBAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\SocialCommunity\SocialCommunityBAL\obj\Debug\SocialCommunityBAL.dll
+D:\Projects\SocialCommunity\SocialCommunityBAL\obj\Debug\SocialCommunityBAL.pdb
+D:\SocialCommunity\SocialCommunityBAL\bin\Debug\SocialCommunityBAL.dll
+D:\SocialCommunity\SocialCommunityBAL\bin\Debug\SocialCommunityBAL.pdb
+D:\SocialCommunity\SocialCommunityBAL\bin\Debug\SocialCommunityDAL.dll
+D:\SocialCommunity\SocialCommunityBAL\bin\Debug\SocialCommunityProp.dll
+D:\SocialCommunity\SocialCommunityBAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SocialCommunity\SocialCommunityBAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SocialCommunity\SocialCommunityBAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SocialCommunity\SocialCommunityBAL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\SocialCommunity\SocialCommunityBAL\bin\Debug\SocialCommunityDAL.pdb
+D:\SocialCommunity\SocialCommunityBAL\bin\Debug\SocialCommunityProp.pdb
+D:\SocialCommunity\SocialCommunityBAL\obj\Debug\ResolveAssemblyReference.cache
+D:\SocialCommunity\SocialCommunityBAL\obj\Debug\SocialCommunityBAL.dll
+D:\SocialCommunity\SocialCommunityBAL\obj\Debug\SocialCommunityBAL.pdb
+D:\SocialCommunity - Nagar Samaj\SocialCommunityBAL\bin\Debug\SocialCommunityBAL.dll
+D:\SocialCommunity - Nagar Samaj\SocialCommunityBAL\bin\Debug\SocialCommunityBAL.pdb
+D:\SocialCommunity - Nagar Samaj\SocialCommunityBAL\bin\Debug\SocialCommunityDAL.dll
+D:\SocialCommunity - Nagar Samaj\SocialCommunityBAL\bin\Debug\SocialCommunityProp.dll
+D:\SocialCommunity - Nagar Samaj\SocialCommunityBAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SocialCommunity - Nagar Samaj\SocialCommunityBAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SocialCommunity - Nagar Samaj\SocialCommunityBAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SocialCommunity - Nagar Samaj\SocialCommunityBAL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\SocialCommunity - Nagar Samaj\SocialCommunityBAL\bin\Debug\SocialCommunityDAL.pdb
+D:\SocialCommunity - Nagar Samaj\SocialCommunityBAL\bin\Debug\SocialCommunityProp.pdb
+D:\SocialCommunity - Nagar Samaj\SocialCommunityBAL\obj\Debug\ResolveAssemblyReference.cache
+D:\SocialCommunity - Nagar Samaj\SocialCommunityBAL\obj\Debug\SocialCommunityBAL.dll
+D:\SocialCommunity - Nagar Samaj\SocialCommunityBAL\obj\Debug\SocialCommunityBAL.pdb
+F:\Projects\SocialCommunity - Nagar Samaj\SocialCommunityBAL\bin\Debug\SocialCommunityBAL.dll
+F:\Projects\SocialCommunity - Nagar Samaj\SocialCommunityBAL\bin\Debug\SocialCommunityBAL.pdb
+F:\Projects\SocialCommunity - Nagar Samaj\SocialCommunityBAL\bin\Debug\SocialCommunityDAL.dll
+F:\Projects\SocialCommunity - Nagar Samaj\SocialCommunityBAL\bin\Debug\SocialCommunityProp.dll
+F:\Projects\SocialCommunity - Nagar Samaj\SocialCommunityBAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Projects\SocialCommunity - Nagar Samaj\SocialCommunityBAL\bin\Debug\Microsoft.Practices.Unity.dll
+F:\Projects\SocialCommunity - Nagar Samaj\SocialCommunityBAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Projects\SocialCommunity - Nagar Samaj\SocialCommunityBAL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+F:\Projects\SocialCommunity - Nagar Samaj\SocialCommunityBAL\bin\Debug\SocialCommunityDAL.pdb
+F:\Projects\SocialCommunity - Nagar Samaj\SocialCommunityBAL\bin\Debug\SocialCommunityProp.pdb
+F:\Projects\SocialCommunity - Nagar Samaj\SocialCommunityBAL\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\SocialCommunity - Nagar Samaj\SocialCommunityBAL\obj\Debug\SocialCommunityBAL.dll
+F:\Projects\SocialCommunity - Nagar Samaj\SocialCommunityBAL\obj\Debug\SocialCommunityBAL.pdb

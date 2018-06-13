@@ -1,0 +1,71 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="mstAdminPanel.master.cs"
+    Inherits="mstAdminPanel" %>
+
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="ajaxtoolkit" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Social Community</title>
+    <link href="CSS/style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <ajaxtoolkit:ToolkitScriptManager ID="ToolkitScriptManager1" runat="server">
+    </ajaxtoolkit:ToolkitScriptManager>
+    <div id="wrapper">
+        <div id="header">
+            <div class="header-menu">
+                <ul>
+                    <li><a href="CountryMaster.aspx">Country Master</a></li>
+                    <li>|</li>
+                    <li><a href="StateMaster.aspx">State Master</a></li>
+                    <li>|</li>
+                    <li><a href="CityMaster.aspx">City Master</a></li>
+                    <li>|</li>
+                    <li><a href="EventMaster.aspx">Event Master</a></li>
+                    <li>|</li>
+                    <li><a href="MemberMaster.aspx">Member Master</a></li>
+                    <li>|</li>
+                    <li><a href="NewsMaster.aspx">Update News</a></li>
+                    <li>|</li>
+                    <li><a href="AlbumMaster.aspx">Album Master</a></li>
+                    <li>|</li>
+                    <li><a href="PhotoGallery.aspx">Photo Gallery</a></li>
+                </ul>
+            </div>
+        </div>
+        <div id="content">
+            <div class="content-left">
+                <div>
+                    <a href="http://www.mehtainfosoft.com" target="_blank">
+                        <img src="http://www.mehtainfosoft.com/images/mehta-logo.png" width="150px" /></a>
+                </div>
+                <div>
+                    <br />
+                    <a href="http://www.mehtainfosoft.com" target="_blank">
+                        <img src="http://www.mehtainfosoft.com/images/Ads/Ads.jpg" width="150px" height="450px" />
+                    </a>
+                </div>
+            </div>
+            <div class="content-right">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+        </div>
+        <div id="footer">
+            <div class="header-menu marnone">
+                <ul>
+                    <li><a href="ChangePassword.aspx">Change Password</a></li>
+                    <li>|</li>
+                    <li><asp:LinkButton ID="lnkbtnLogout" runat="server" OnClick="lnkbtnLogout_Click">Logout</asp:LinkButton></li>
+                </ul>
+            </div>
+            <div>
+                Copyrights @ Nagar Bandhara Community, INDIA. Website Designed & Developed by <a href="http://www.mehtanfosoft.com/">
+                    MEHTA INFOSOFT PVT. LTD.</a>
+            </div>
+        </div>
+    </div>
+    </form>
+</body>
+</html>

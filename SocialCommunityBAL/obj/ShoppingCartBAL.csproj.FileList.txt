@@ -1,0 +1,13 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\ShoppingCartBAL.dll
+bin\Debug\ShoppingCartBAL.pdb
+bin\Debug\ShoppingCartDAL.dll
+bin\Debug\ShoppingCartProp.dll
+bin\Debug\Microsoft.Practices.Unity.dll
+bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+bin\Debug\ShoppingCartProp.pdb
+bin\Debug\ShoppingCartDAL.pdb
+obj\Debug\ShoppingCartBAL.dll
+obj\Debug\ShoppingCartBAL.pdb
